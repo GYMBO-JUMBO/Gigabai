@@ -1,0 +1,9 @@
+{
+    "Dima": {
+        "password": "1234",
+        "balance": 10000.0,
+        "income": 144.0,
+        "expenses": 99.0,
+        "transactions": []
+    }
+}
