@@ -1,0 +1,64 @@
+{
+    "Dima": {
+        "password": "1234",
+        "balance": 10022.0,
+        "income": 10300.0,
+        "expenses": 278.0,
+        "transactions": [],
+        "income_history": [
+            {
+                "amount": 100.0,
+                "source": "Gift",
+                "note": "",
+                "date": "2026-05-16 12:58"
+            },
+            {
+                "amount": 10000.0,
+                "source": "Salary",
+                "note": "",
+                "date": "2026-05-16 12:58"
+            },
+            {
+                "amount": 200.0,
+                "source": "Salary",
+                "note": "",
+                "date": "2026-05-16 12:59"
+            }
+        ],
+        "account_number": "77777777777",
+        "first_name": "",
+        "last_name": "",
+        "workplace": "",
+        "bank_name": "Kaspi KZ",
+        "categories": {
+            "Bills": [
+                {
+                    "amount": 100.0,
+                    "note": "",
+                    "date": "2026-05-16 13:29"
+                }
+            ],
+            "Food": [
+                {
+                    "amount": 120.0,
+                    "note": "",
+                    "date": "2026-05-16 13:29"
+                }
+            ],
+            "Shopping": [
+                {
+                    "amount": 23.0,
+                    "note": "",
+                    "date": "2026-05-16 13:33"
+                }
+            ],
+            "gym": [
+                {
+                    "amount": 35.0,
+                    "note": "",
+                    "date": "2026-05-16 13:33"
+                }
+            ]
+        }
+    }
+}
